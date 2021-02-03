@@ -1,0 +1,24 @@
+.topHeader{
+    height: 6.5rem;
+    background-color: rgba(0, 0, 0, 0.242);
+}
+
+.topHeader span {
+    margin: 15px
+}
+
+.research {
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.851);
+    height: 4rem;
+    position: absolute;
+    top: 4.5rem;
+    left: 10%;
+    border-radius: 30px;
+    padding-left: 1rem;
+}
+
+.container {
+    height: 25rem;
+    background-color:rgba(0, 0, 255, 0)
+}

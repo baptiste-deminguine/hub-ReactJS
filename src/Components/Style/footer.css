@@ -1,0 +1,17 @@
+.container-footer{
+    padding: 3rem;
+    background-color: #f7f7f7;
+}
+
+.footer{
+    font-size: 15px;
+    width: 30%;
+}
+
+.footer p {
+    margin-top: 1rem
+}
+
+.footer p:hover{
+    text-decoration: underline;
+}

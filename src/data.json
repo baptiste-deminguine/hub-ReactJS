@@ -1,0 +1,27 @@
+{
+    "cities":[
+        {"title" : "Paris", "route" : "5", "src": "https://a0.muscache.com/im/pictures/b9882969-c023-4068-8806-4f1829321186.jpg?im_q=medq&im_w=720" },
+        {"title" : "Cassis", "route" : "4", "src": "https://a0.muscache.com/im/pictures/c2eba2e9-0d80-4704-9e2c-34ac16316c53.jpg?im_q=medq&im_w=720"},
+        {"title" : "Cannes", "route" : "5", "src": "https://a0.muscache.com/im/pictures/3849e3f1-d275-43fb-8957-4c90f26e14db.jpg?im_q=medq&im_w=720"},
+        {"title" : "Nice", "route" : "5.5", "src": "https://a0.muscache.com/im/pictures/445fbc0d-7ee3-484a-ad64-d5e389d81e91.jpg?im_q=medq&im_w=720"},
+        {"title" : "Marseille", "route" : "4", "src": "https://a0.muscache.com/im/pictures/73ab906b-eea1-425d-9fea-bf2c79d86556.jpg?im_q=medq&im_w=720"},
+        {"title" : "Toulon", "route" : "4.5", "src": "https://a0.muscache.com/im/pictures/402ff28c-e7c7-4c94-87b2-498f5a43936d.jpg?im_q=medq&im_w=720"}
+    ],
+    "everywhere": [
+        {"title": "Logements entiers", "src" :"https://a0.muscache.com/im/pictures/a0316ecb-e49b-4b3a-b6b6-c2876b820e8c.jpg?im_w=720"},
+        {"title": "Logements uniques", "src" :"https://a0.muscache.com/im/pictures/ce6814ba-ed53-4d6e-b8f8-c0bbcf821011.jpg?im_w=720"},
+        {"title": "Adaptés aux animaux", "src" :"https://a0.muscache.com/im/pictures/fbe849a4-841a-41b3-b770-419402a6316f.jpg?im_w=720"} 
+    ],
+
+    "discover": [
+        {"title": "Expériences en ligne", "description": "Parcourez le monde sans sortir de chez vous", "src" :"https://a0.muscache.com/im/pictures/4d353c80-e73a-4b04-9e15-ec3d8381b106.jpg?im_w=720"},
+        {"title": "Expériences", "description": "Des activités ou que vous soyez", "src" :"https://a0.muscache.com/im/pictures/e81fce5f-2f51-4342-938e-5bc18ae237f4.jpg?im_w=720"},
+        {"title": "Aventures", "description": "Des viages de plusieurs jours, repas et logement compris", "src" :"https://a0.muscache.com/im/pictures/b9adfc39-6e2a-4e5f-b6f3-681b306fae5c.jpg?im_w=720"} 
+    ],
+    "Community": [
+        {"title": "Héberger des voyageurs", "src": "https://a0.muscache.com/im/pictures/2a16f833-464c-446c-8d74-33eb8c643975.jpg?im_w=720"},
+        {"title": "Organiser une expérience en ligne", "src": "https://a0.muscache.com/im/pictures/426a8116-0b94-4407-ae87-924126c81d78.jpg?im_w=720"},
+        {"title": "Organiser une expérience", "src": "https://a0.muscache.com/im/pictures/a84e92bd-68e6-4ce2-9fdf-b2ce1a377f53.jpg?im_w=720"}
+    ]
+    
+}
